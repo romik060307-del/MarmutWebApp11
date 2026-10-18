@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#087CFF</color>
+    <color name="primary_dark">#0757C8</color>
+    <color name="launcher_blue">#087CFF</color>
+    <color name="tab_background">#EEF5FF</color>
+    <color name="tab_selected">#D4E7FF</color>
+    <color name="text_primary">#17324F</color>
+    <color name="white">#FFFFFF</color>
+</resources>

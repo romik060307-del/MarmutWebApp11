@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marmut</string>
+    <string name="home_tab">Utama</string>
+    <string name="new_tab">Tab baru</string>
+    <string name="close_tab">Tutup tab</string>
+    <string name="reload">Muat ulang</string>
+    <string name="go_home">Kembali ke utama</string>
+</resources>
